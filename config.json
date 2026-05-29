@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailsonnect",
+        "uuid": 30018390,
+        "checksum": "ftzuif"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
